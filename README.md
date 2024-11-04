@@ -34,7 +34,7 @@ This project explores salary trends and variations in data science jobs based on
 
 ## Data Collection and Preparation
 
-- **Data Source**: This anonymized dataset was collected from various sources, including surveys, job postings, and public records.
+- **Data Source**: This anonymized dataset was collected from various sources, including surveys, job postings, and public records. The data set was collect from kaggle.
 - **Data Description**: The dataset consists of the following columns:
     - `work_year`: Year of data collection.
     - `experience_level`: Level of experience (e.g., entry-level, mid-level).
