@@ -4,6 +4,8 @@
 
 This project explores salary trends and variations in data science jobs based on anonymized data from various sources, including surveys, job postings, and public records. The analysis provides insights into salary distributions across experience levels, company size, work location, remote work ratio, and other factors that impact data science compensation. This information can be valuable for benchmarking salaries, career planning, and understanding salary trends in the data science field.
 
+![](https://github.com/KufreJames525/Data-science-Job-Analysis/blob/main/istockphoto-1480239219-612x612.jpg?raw=true)
+
 ### Key Objectives
 - Analyze overall salary trends in data science jobs over recent years.
 - Understand the impact of experience level, company size, employment type, and remote work on salary.
