@@ -93,7 +93,7 @@ Calculated basic descriptive statistics to understand the range, average, and sp
    - **Objective**: Examine how salary varies by the residence location of employees.
    - **Method**: Calculated average salary in USD for each residence location and created a bar plot for the top 10 locations.
    - **Result**: Highlighted the highest and lowest average salaries by location, providing insight into regional salary variations.
-
+![](https://github.com/KufreJames525/Data-science-Job-Analysis/blob/main/Screenshot%202024-11-03%20235547.png?raw=true)
 #### 2. Average Salary by Company Location
    - **Objective**: Understand salary variations by company location.
    - **Method**: Created a bar plot for the top 10 company locations by average salary.
