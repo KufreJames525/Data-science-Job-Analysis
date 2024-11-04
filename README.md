@@ -71,6 +71,8 @@ Calculated basic descriptive statistics to understand the range, average, and sp
 - **Method**: Created a box plot showing the distribution of salaries for each experience level (entry, mid, senior).
 - **Result**: Provided insights into the expected salary range at different experience levels, showing how experience influences pay.
 
+![](https://github.com/KufreJames525/Data-science-Job-Analysis/blob/main/Screenshot%202024-11-03%20235352.png?raw=true)
+
 ### Salary by Employment Type
 - **Objective**: Investigate salary differences by employment type.
 - **Method**: Created a box plot comparing salary distributions for full-time, part-time, and contract positions.
