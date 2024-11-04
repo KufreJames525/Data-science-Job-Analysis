@@ -64,6 +64,8 @@ Calculated basic descriptive statistics to understand the range, average, and sp
 - **Method**: Calculated the mean salary in USD for each year and created a line chart to visualize the trends.
 - **Result**: Displayed an upward or downward trend of data science salaries over recent years.
 
+![](https://github.com/KufreJames525/Data-science-Job-Analysis/blob/main/Screenshot%202024-11-03%20235032.png?raw=true)
+
 ### Salary by Experience Level
 - **Objective**: Understand how salary varies by experience level.
 - **Method**: Created a box plot showing the distribution of salaries for each experience level (entry, mid, senior).
